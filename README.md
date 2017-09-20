@@ -10,6 +10,11 @@ Running requirement:
 Have an android/ios device connected properly or have an android or ios emulator on the computer.
 Preferably the android version is higher than 5.0
 
+What I have learned:
+
+1. Different android devices might have different default colors. I need to specify the color to be black, or bad things
+happen
+
 Photo Credits:
 http://www.quickmeme.com/meme/35c4mv
 
