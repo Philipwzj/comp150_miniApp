@@ -24,6 +24,7 @@ export default class Memes extends Component {
         return {
             title: 'Memes',
             headerTintColor: "#000000",
+            backgroundColor: '#F23421'
         };
     };
 
