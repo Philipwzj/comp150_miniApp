@@ -115,6 +115,7 @@ const styles = StyleSheet.create({
     },
     introText: {
         fontSize: 20,
+        color: 'black'
     },
     optionContainer: {
         flex: 0.85
@@ -122,6 +123,7 @@ const styles = StyleSheet.create({
     menuText: {
         textAlign: 'center',
         fontSize: 20,
+        color: 'black'
     },
     littleMenuContainer: {
         margin: 10,
